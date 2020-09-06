@@ -1,0 +1,16 @@
+x = int (input ('Enter your x: '))
+y = int (input ('Enter your y: '))
+print(x + y)
+name = input('Enter your name: ')
+age = input('Enter your age: ')
+print('hello, ' , name)
+print('you are ', age, 'years old')
+print('in 10 years, you will be', int(age) +10)
+Ask the user for two numbers
+# Print the sum difference multiplicity and division of the first number to the second number.
+first_number = int (input ('Enter first number: '))
+second_number = int (input ('Enter second number: '))
+print( first_number, '+', second_number, '=', first_number + second_number)
+print( first_number, '-', second_number, '=', first_number - second_number)
+print( first_number, '*', second_number, '=', first_number * second_number)
+print( first_number, '/', second_number, '=', first_number / second_number)
