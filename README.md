@@ -20,3 +20,4 @@ I knew how to use print and input.
 
 ##list_stat.py
 This file shows how to find mean, median and sort the list ls into ascending and descending order.
+I learnt how to find the mean, median and sort a list.
